@@ -12,3 +12,12 @@ body{
     flex-direction: column-reverse;
     
 }
+.title{
+    color: white;
+    background-color: #7171a5;
+    width: 300px;
+    position: absolute;
+    top: 10%;
+    left: 37%;
+    border-radius: 15px;
+}
